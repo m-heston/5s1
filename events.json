@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "Soccer vs. TCU",
+      "img": "event_images/soccer.png",
+      "date": "Oct 20, 2024",
+      "starttime": "1:00 PM",
+      "endtime": "3:00 PM",
+      "location": "Cyclone Sports Complex",
+      "cost": "",
+      "description": "Iowa State women's soccer hosts TCU. Dates and times subject to change. Updates available on cyclones.com and athletics social media accounts."
+    },
+    {
+      "id": 2,
+      "name": "Document - Story - Expression",
+      "img": "event_images/documentstoryexpression.png",
+      "date": "Oct 20, 2024",
+      "starttime": "2:00 PM",
+      "endtime": "3:00 PM",
+      "location": "Brunnier Art Museum, 290 Scheman Building, 1805 Center Dr.",
+      "cost": "",
+      "description": "Architect and Architectural Photographer Cameron Campbell will present architectural photography and the balance of capturing the feel and sprit of space along with illustrating the concept of the design - and doing so with the accuracy and rigor of technical photography."
+    },
+    {
+      "id": 4,
+      "name": "Shrek the Musical",
+      "img": "event_images/shrek.png",
+      "date": "Oct 20, 2024",
+      "starttime": "6:00 PM",
+      "endtime": "",
+      "location": "Stephens Auditorium",
+      "cost": "$35 and up",
+      "description": "An unlikely hero finds himself on a life-changing journey alongside a wisecracking Donkey and a feisty princess who resists her rescue. Yes, your favorite ogre is back in the hilarious stage spectacle based on the Oscar-winning DreamWorks animated film."
+    },
+    {
+      "id": 6,
+      "name": "Campus Sustainability Month Celebration",
+      "img": "event_images/reducereuserecycle.png",
+      "date": "Oct 21, 2024",
+      "starttime": "10:00 AM",
+      "endtime": "2:00 PM",
+      "location": "South Library Lawn",
+      "cost": "",
+      "description": "Hosted by the Office of Sustainability, an event of the Live Green! Initiative. Sustainability-minded student organizations, campus groups and community businesses will highlight their activities, initiatives and products. Take advantage of free bike tune-ups, enjoy fall-inspired refreshments and earn green-minded prizes!"
+    },
+    {
+      "id": 11,
+      "name": "Green Dot lunch and learn",
+      "img": "event_images/reducereuserecycle.png",
+      "date": "Oct 23, 2024",
+      "starttime": "10:30 AM",
+      "endtime": "1:00 PM",
+      "location": "Campanile, south lawn",
+      "cost": "",
+      "description": "ISU student health and wellness will present a two-part lunch and learn as part of Green Dot action month: \"Green Flags\" (10:30-11:45 a.m.) and \"Green Dot\" (noon-1 p.m.). Refreshments and lunch will be provided. Registration requested."
+    },
+    {
+      "id": 13,
+      "name": "Pop-Up: Dress for Confidence",
+      "img": "event_images/dress.png",
+      "date": "Oct 24, 2024",
+      "starttime": "10:00 AM",
+      "endtime": "12:00 PM",
+      "location": "Multicultural Center, Memorial Union",
+      "cost": "",
+      "description": "Take a style quiz, pick out free clothing items, and feel more confident dressing for interviews, ISU game days, or everyday life."
+    }
+  ]

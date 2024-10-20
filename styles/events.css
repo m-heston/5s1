@@ -1,0 +1,81 @@
+.eventcard {
+    padding: 5px;
+    margin: 10px;
+    padding-left: 5%;
+    background-color: cornsilk;
+    border-radius: 20px;
+}
+.cols {
+    margin: 20px;
+}
+.current {
+    background-color: forestgreen;
+    outline-style: solid;
+    outline-width: 5px;
+    outline-color: darkgreen;
+}
+#leftpanel {
+    max-width: 60%;
+    background-color: goldenrod;
+    margin: 0px;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+#rightpanel {
+    border-radius: 20px;
+    width: 30%;
+    background-color: white;
+    position: sticky;
+    top: 20px;
+    min-height: 80vh;
+    overflow: auto;
+
+    h1 {
+        font-size: 28px;
+        text-align: center;
+        padding: 0px;
+        margin: 5px;
+    }
+    h2 {
+        text-align: center;
+        margin: 1px;
+        padding: 0px;
+        font-size:  20px;
+    }
+    p {
+        text-align: center;
+        margin: 5px;
+        padding: 5px;
+    }
+    img {
+        max-width: 100%;
+    }
+
+    
+}
+
+#maincontent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+body {
+    background-color: darkred;
+}
+#header {
+    text-align: center;
+    font-size: 48px;
+    background-color: darkgoldenrod;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#body {
+    margin-bottom: 40px;
+}

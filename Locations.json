@@ -1,0 +1,24 @@
+[{ "name": "Memorial Union",
+    "img": "Location_images\\MU.jpg", 
+    "description": "Located in the heart of campus, the Memorial Union is the perfect destination for hosting events. Our venue offers a captivating blend of historic charm and modern amenities. Whether you're planning a conference, wedding, meeting, or a social gathering, our versatile spaces and attentive staff cater to your every need.", 
+    "minidescription": "The center of Campus; Where students can go to learn more about the School"
+
+}, 
+{ "name": "The Camponile",
+    "img": "Location_images\\Camponile.jpg", 
+    "description": "The campanile was designed by architect George E. Hallett and built by J.F. Atkinson & Bro. The idea of building a tower in name of Mrs. Stanton was first expressed in a letter from Professor E. W. Stanton to the Board of Trustees. The construction began in July of 1897 and the tower was completed in October of 1898. There were originally ten bells placed in the tower in 1899. Later, in 1929, twenty-six additional bells were placed in the tower, giving the campanile a total of thirty-six carillon. In 1956 another thirteen bells were placed in the tower and a final one placed in 1967, giving the campanile a total of fifty bells.", 
+    "minidescription": "A staple for The Iowa State Campus; Where student's go to relax on the quad"
+
+}, 
+{ "name": "Jack Trice Stadium ",
+    "img": "Location_images\\JackTrice.jpg", 
+    "description": "Jack Trice Stadium (originally Cyclone Stadium and formerly Jack Trice Field, sometimes referred to as the Jack) is a stadium located in Ames, Iowa, United States. Primarily used for college football, it is the home field of the Iowa State Cyclones. It is named in honor of Jack Trice, Iowa State's first African American athlete, who died of injuries sustained during a 1923 game against Minnesota. The stadium opened on September 20, 1975, with a 17–12 win over Air Force.", 
+    "minidescription": "The home stadium for the Iowa State Cyclones"
+
+}, 
+{ "name": "Union Drive Community Center",
+    "img": "Location_images\\UDM.jpg", 
+    "description": "The Union Drive Community Center is a hub for activity in the neighborhood. It houses Union Drive Marketplace dining center, Clyde's cafe, and West Side Market convenience store. For students living in the neighborhood, the UDCC mail room will be an important stop. Mail boxes are located by the mail room and are accessible 24/7. For larger, non-perishable packages, students will visit the Mail Room between 8-6 M-F and 1-5 on weekends.", 
+    "minidescription": "The center for students who are looking for a place to eat"
+
+} ]

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type = "text/css" href = "styles/universal.css">
+    <title>About</title>
+
+    <style>
+        /*NAMECARD STUFF*/
+        h1 {
+            text-align: center;
+        }
+        .cards {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            
+
+            .namecard {
+                border: 5px solid black;
+                border-radius: 30px;
+
+
+                width: 85%;
+                background-color: darkgoldenrod;
+                outline: 5px black;
+                color:black;
+                box-shadow: 10px 10px darkred;
+                padding: 20px;
+                margin: 20px;
+
+                display:flex;
+                flex-direction: row;
+                justify-content:space-between;
+                align-items: center;
+
+                img {
+                    max-width: 40%;
+                    min-width: 30%;
+                    border-radius: 30px;
+                }
+                
+                .text {
+                    padding: 20px;
+                    margin: 0px;
+                    text-align: center; 
+                    width: 60%;
+                }
+
+                a {
+                    text-decoration: none;
+                    color: black;
+                }
+                button {
+                    color: white;
+                    background-color: black;
+                    padding: 10px;
+                    border-radius: 30px;
+                    margin: 10px;
+                    
+                }
+                button:hover {
+                    color: black;
+                    background-color: white;
+                    border: 5px 5px black;
+                }
+                h3 {
+                    margin: 5px;
+                }
+                h2 {
+                    font-size: 40px;
+                    margin: 10px;
+                }
+
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class = "HeaderContainer">
+        <img src="Location_images/Banner.jpg" alt="">
+        <div class = "NavBanner">
+            <ul class = "Tabs">
+                <li><a href="Locations.html">Hot Spots</a></li>
+                <li><a href="events.html">Events of Interest</a></li>
+                <li><a href="index.html">About Us/Contact</a></li>
+            </ul>
+        </div>
+
+    </div>
+    <h1>About Us</h1>
+    <div class="cards">
+        <div class="namecard">
+            <img src="about_images/molly.jpg" alt="picture of molly">
+            <div class="text">
+                <h2>Molly Heston</h2>
+                <h3>COMS 3190 - Aldeco</h3>
+                <h3>Due 09/18/2024</h3>
+                <a href="mailto:mheston@iastate.edu">mheston@iastate.edu</a>
+                <br>
+                <a href="mailto:mheston@iastate.edu"><button>Contact Me</button></a>
+                
+            </div>
+        </div>
+        <div class="namecard">
+            <img src="about_images/arslan.JPG" alt="picture of me eventually">
+            <div class="text">
+                <h2>Arslan Khan</h2>
+                <h3>COMS 3190 - Aldeco</h3>
+                <h3>Due 09/18/2024</h3>
+                <a href="mailto:arslank@iastate.edu">arslank@iastate.edu</a>
+                <br>
+                <a href="mailto:arslank@iastate.edu"><button>Contact Me</button></a>
+            </div>
+        </div>
+    </div>
+
+</body>

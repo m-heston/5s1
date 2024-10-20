@@ -1,0 +1,56 @@
+/* ---------------------------------------------------------------------------------------------------- */
+/* Header css */
+.HeaderContainer{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    max-height: 10%;
+}
+
+.HeaderContainer img{
+    display: block;
+    width: 100%;
+}
+
+.NavBanner{
+    width: 100%;
+    background-color: #24252A;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    justify-content: center;
+    translate: 0px -43px;
+
+}
+.Tabs{
+    list-style: none;
+    align-items: center;
+    padding: 5px;
+    
+
+}
+
+.Tabs li a{
+    transition: all 0.3s ease 0s;
+    color: #f0f0f0;
+    text-decoration: none;
+
+
+}
+.Tabs li{
+    display: inline-block;
+    color: #f0f0f0;
+    font-size: 20px;
+    padding: 0px 30px;
+
+}
+.Tabs li a:hover{
+    color: darkgoldenrod;
+}
+
+/*Other bits and pieces*/
+body {
+    padding: 0px;
+    margin: 0px;
+}

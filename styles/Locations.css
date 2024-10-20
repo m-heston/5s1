@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ece6e6;
+}
+
+.CardContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 7px;
+
+}
+.Card{
+    width: 325px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin: 20px;
+}
+.Card img{
+    width: 100%;
+    height: 300px;
+}
+.CardContent{
+    padding: 16px;
+}
+.CardContainer h3{
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+.CardContainer p{
+    color: #666;
+    font-size: 15px;
+    line-height: 1.3;
+}
+/* -------------------------------------------------------- Bottom thingy*/
+.InfoContainer{
+    display: flex;
+    /* flex-wrap: wrap; */
+    margin-top: 10px;
+    justify-content: center;
+            align-items: center;
+}
+.InfoCard{
+    width: 325px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin: 20px;
+    width: 97%;
+    height: 700px;
+    
+    display: flex;
+    border: 1px solid #ccc; /* Border around inner containers */
+
+}
+
+.imgContainer{  
+    flex: 1; /* Take up equal space */
+    display: flex; /* Flex to center the image */
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box; /* Include padding in width/height */
+}
+
+.DescriptionContainer{
+    flex: 1; 
+    padding: 20px;
+    box-sizing: border-box; 
+
+}
+
+.MainImg {
+    height: 100%; /* Maintain aspect ratio */
+    max-width: 100%; /* Responsive image */
+
+}
+
+
